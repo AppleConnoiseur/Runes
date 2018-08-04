@@ -1,0 +1,5 @@
+D:\Programmering\C#\Rimworld\Runes\Runes\bin\Debug\Runes.dll
+D:\Programmering\C#\Rimworld\Runes\Runes\bin\Debug\0Harmony.dll
+D:\Programmering\C#\Rimworld\Runes\Runes\obj\Debug\Runes.csprojResolveAssemblyReference.cache
+D:\Programmering\C#\Rimworld\Runes\Runes\obj\Debug\Runes.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Runes\Assemblies\Runes.dll
